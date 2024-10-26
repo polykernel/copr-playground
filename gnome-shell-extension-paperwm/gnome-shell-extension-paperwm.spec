@@ -2,7 +2,7 @@
 %global gschemadir  %{_datadir}/glib-2.0/schemas
 
 Name:           gnome-shell-extension-paperwm
-Version:        46.17.0
+Version:        47.1.0
 Release:        %autorelease
 Summary:        Tiled scroll-able window management for Gnome Shell
 
