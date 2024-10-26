@@ -8,7 +8,7 @@ Summary:        KDE kimpanel protocol for gnome shell
 
 License:        GPLv2
 URL:            https://github.com/wengxt/gnome-shell-extension-kimpanel
-Source0:        https://github.com/wengxt/gnome-shell-extension-kimpanel/archive/master.tar.gz
+Source0:        https://github.com/wengxt/gnome-shell-extension-kimpanel/archive/4d5ab586b364fef9d710aafc8ea3f1b4e80f58da.tar.gz
 
 BuildArch:      noarch
 
