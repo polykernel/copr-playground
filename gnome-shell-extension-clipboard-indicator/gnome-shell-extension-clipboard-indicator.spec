@@ -2,7 +2,7 @@
 %global gschemadir  %{_datadir}/glib-2.0/schemas
 
 Name:           gnome-shell-extension-clipboard-indicator
-Version:        64
+Version:        65
 Release:        %autorelease
 Summary:        The most popular clipboard manager for GNOME
 
